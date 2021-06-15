@@ -1,2 +1,7 @@
 # Hotel
-java hotel management gui + OOP + sqlite
+
+ Hotel Managament Application:
+    Custom GUI
+    OOP design patterns and principles
+    SQL database
+
