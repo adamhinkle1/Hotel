@@ -1,7 +1,10 @@
 # Hotel
 
- Hotel Managament Application:
-    Custom GUI
-    OOP design patterns and principles
-    SQL database
+ Hotel Managament Application
+ 
+ ## Features
+ - Custom GUI
+ - OOP design patterns and principles
+ -- Strategy, Factory, Singleton, Decorator design patterns
+ - SQLite database
 
